@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MathiEs98
+- 👋 Hi, I’m @MathiasEste98
 - 👀 I’m interested in programming and coding
 - 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on ...
